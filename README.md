@@ -36,4 +36,4 @@ How to add a font Locally.
 ## Author
 
 - GitHub - [Zak](https://github.com/Zakinane)
-- Frontend Mentor - [@Zakinane](hhttps://www.frontendmentor.io/profile/Zakinane)
+- Frontend Mentor - [@Zakinane](https://www.frontendmentor.io/profile/Zakinane)

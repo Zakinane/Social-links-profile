@@ -1,0 +1,84 @@
+@font-face {
+  font-family: Inter;
+  src: url("./assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+body {
+  background-color: hsl(0, 0%, 8%);
+  font-family: Inter;
+}
+
+.container {
+  display: flex;
+  margin-top: 8%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+.card {
+  background-color: hsl(0, 0%, 12%);
+  padding: 25px;
+  border-radius: 10px;
+}
+
+h2{
+  color: white;
+}
+
+img {
+  border-radius: 100%;
+  width: 100px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#adresse {
+  color: hsl(75, 94%, 57%);
+  font-weight: bold;
+}
+#description {
+  color: white;
+  margin-top: 50px;
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+#link {
+  background-color: hsl(0, 0%, 20%);
+  color: white;
+  text-decoration: none;
+  font-size: small;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.attribution{
+  color: white;
+  text-decoration: none;
+  font-size: small;
+  font-weight: bold;
+}
+a:link {
+  font-size: large;
+  text-decoration: none;
+  color: hsl(75, 94%, 57%);
+}
+a:visited {
+  font-size: large;
+  color: hsl(75, 94%, 57%);
+  text-decoration: none;
+}
+a:active {
+  font-size: large;
+  color: hsl(75, 94%, 57%);
+  text-decoration: none;
+} 
